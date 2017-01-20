@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <option name="DEFAULT_COMPILER" value="Javac" />
-    <resourceExtensions />
+    <excludeFromCompile>
+      <file url="file://$PROJECT_DIR$/src/com/javarush/test/level03/lesson03/task01/Solution.java" />
+      <file url="file://$PROJECT_DIR$/src/com/javarush/test/level03/lesson03/task03/Solution.java" />
+    </excludeFromCompile>
     <wildcardResourcePatterns>
       <entry name="?*.properties" />
       <entry name="?*.xml" />
@@ -15,10 +17,5 @@
       <entry name="?*.tld" />
       <entry name="?*.ftl" />
     </wildcardResourcePatterns>
-    <annotationProcessing>
-      <profile default="true" name="Default" enabled="false">
-        <processorPath useClasspath="true" />
-      </profile>
-    </annotationProcessing>
   </component>
 </project>
