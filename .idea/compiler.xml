@@ -4,6 +4,9 @@
     <excludeFromCompile>
       <file url="file://$PROJECT_DIR$/src/com/javarush/test/level03/lesson03/task01/Solution.java" />
       <file url="file://$PROJECT_DIR$/src/com/javarush/test/level03/lesson03/task03/Solution.java" />
+      <file url="file://$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/home05/Solution.java" />
+      <file url="file://$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/home04/Solution.java" />
+      <file url="file://$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/home06/Solution.java" />
     </excludeFromCompile>
     <wildcardResourcePatterns>
       <entry name="?*.properties" />
